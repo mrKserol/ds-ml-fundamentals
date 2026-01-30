@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b122616e-c35d-4bfc-a52c-d105088cd9c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/metrics/ranking/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metrics/ranking/ranking_at_k.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/metrics/ranking/ranking_at_k.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
