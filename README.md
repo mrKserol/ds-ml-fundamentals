@@ -1,4 +1,4 @@
-# ds-ml-fundamentals
+# Data Science & Machine Learning fundamentals
 
 Репозиторий с фундаментальными понятиями Data Science и Machine Learning,
 реализованными на Python с акцентом на понимание принципов работы алгоритмов и методов.
