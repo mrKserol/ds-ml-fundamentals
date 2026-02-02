@@ -12,10 +12,10 @@
 
 ## Темы, представленные в репозитории
 
-### [Метрики](metrics)
-- [Метрики регрессии (MAE, MSE, RMSE, R², SMAPE, MAPE)](metrics/regression)
-- [Метрики классификации (accuracy, precision, recall, F1-score)](metrics/classification)
-- [Ранжирующие метрики (Recall@K)](metrics/ranking)
+### Метрики
+- Метрики регрессии (MAE, MSE, RMSE, R², SMAPE, MAPE)
+- Метрики классификации (accuracy, precision, recall, F1-score)
+- Ранжирующие метрики (Recall@K)
 
 ### Статистические тесты
 - Анализ распределений и проверка нормальности
