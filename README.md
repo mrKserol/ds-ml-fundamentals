@@ -23,7 +23,7 @@
 - Квантильный t-тест для A/B-экспериментов
 
 ### Базовые ML-модели
-- [Decision Tree, реализованное с нуля](models/decision_tree)
+- [Decision Tree](models/decision_tree), реализованное с нуля
 - Интуиция bias–variance trade-off
 - Оценка качества и интерпретация моделей
 
