@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b122616e-c35d-4bfc-a52c-d105088cd9c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/metrics/ranking/ranking_at_k.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/metrics/ranking/ranking_at_k.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/decision_tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/decision_tree/decisiontree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/decision_tree/loan_delay_days.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,17 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/macpro/Documents/GitHub/repositories/ds-ml-fundamentals/ds-ml-fundamentals/metrics/regression&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/macpro/Documents/GitHub/repositories/ds-ml-fundamentals/ds-ml-fundamentals/models/decision_tree"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models/decision_tree" />
       <recent name="$PROJECT_DIR$/metrics/regression" />
     </key>
   </component>
