@@ -50,3 +50,26 @@
 
 ## Структура репозитория
 
+```text
+.
+├── README.md
+├── ab_testing/
+├── metrics/
+│   ├── README.md
+│   ├── classification/
+│   │   ├── README.md
+│   │   └── basic_metrics.ipynb
+│   ├── regression/
+│   │   ├── README.md
+│   │   ├── basic_metrics.ipynb
+│   │   └── smape.ipynb
+│   └── ranking/
+│       ├── README.md
+│       └── ranking_at_k.ipynb
+└── models/
+    └── decision_tree/
+        ├── README.md
+        ├── decision_tree_regressor.ipynb
+        ├── decisiontree.py
+        └── loan_delay_days.csv
+```
