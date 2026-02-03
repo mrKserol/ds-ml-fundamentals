@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b122616e-c35d-4bfc-a52c-d105088cd9c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/README-checkpoint.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metrics/classification/.ipynb_checkpoints/README-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metrics/classification/.ipynb_checkpoints/basic_metrics-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metrics/ranking/.ipynb_checkpoints/ranking_at_k-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metrics/regression/.ipynb_checkpoints/mae_mse_rmse_r2_mape-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metrics/regression/.ipynb_checkpoints/smape-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/decision_tree/.ipynb_checkpoints/decision_tree_regressor-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/decision_tree/.ipynb_checkpoints/decisiontree-checkpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/gradient_boosting/.ipynb_checkpoints/draft-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/gradient_boosting/.ipynb_checkpoints/gradient_boosting_from_scatch-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/gradient_boosting/.ipynb_checkpoints/gradientboosting-checkpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/gradient_boosting/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/models/gradient_boosting/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/gradient_boosting/draft.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/gradient_boosting/gradient_boosting_from_scatch.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="b122616e-c35d-4bfc-a52c-d105088cd9c3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +32,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/macpro/Documents/GitHub/repositories/ds-ml-fundamentals/ds-ml-fundamentals/models/gradient_boosting"
