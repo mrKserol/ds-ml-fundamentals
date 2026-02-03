@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b122616e-c35d-4bfc-a52c-d105088cd9c3" name="Changes" comment="" />
+    <list default="true" id="b122616e-c35d-4bfc-a52c-d105088cd9c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/models/gradient_boosting/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/gradient_boosting/draft.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/gradient_boosting/gradient_boosting_from_scatch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/gradient_boosting/gradientboosting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/gradient_boosting/users.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,11 +41,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/macpro/Documents/GitHub/repositories/ds-ml-fundamentals/ds-ml-fundamentals/models/decision_tree"
+    "last_opened_file_path": "/Users/macpro/Documents/GitHub/repositories/ds-ml-fundamentals/ds-ml-fundamentals/models/gradient_boosting"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models/gradient_boosting" />
       <recent name="$PROJECT_DIR$/models/decision_tree" />
       <recent name="$PROJECT_DIR$/metrics/regression" />
     </key>
