@@ -12,7 +12,6 @@
 ---
 ## Quick start
 
-### Вариант 1: через venv + pip (рекомендуется)
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # macOS/Linux
