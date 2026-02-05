@@ -10,6 +10,17 @@
 а на понимании того, что происходит «под капотом» моделей и методов.
 
 ---
+## Quick start
+
+### Вариант 1: через venv + pip (рекомендуется)
+```bash
+python -m venv .venv
+source .venv/bin/activate  # macOS/Linux
+# .venv\Scripts\activate   # Windows
+
+pip install -r requirements.txt
+jupyter notebook
+```
 
 ## Темы, представленные в репозитории
 
